@@ -1,0 +1,32 @@
+{
+  "name": "passport-chalkable-oauth2",
+  "version": "0.0.1",
+  "description": "Chalkable (OAuth2) authentication strategies for Passport.",
+  "keywords": ["passport", "chalkable", "auth", "authn", "authentication", "identity"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/headlessme/passport-chalkable-oauth2.git"
+  },
+  "bugs": {
+    "url": "http://github.com/headlessme/passport-chalkable-oauth2/issues"
+  },
+  "author": {
+    "name": "Andy Pritchard",
+    "email": "contact@coggle.it",
+    "url": "http://coggle.it/"
+  },
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT" 
+  } ],
+  "main": "./lib/passport-chalkable-oauth2",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "~0.1.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "engines": { "node": ">= 0.4.0" }
+}

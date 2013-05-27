@@ -22,7 +22,7 @@
   "main": "./lib/passport-chalkable-oauth2",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "~0.1.4"
+    "passport-oauth": "git://github.com/headlessme/passport-oauth.git"
   },
   "devDependencies": {
   },

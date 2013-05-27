@@ -1,6 +1,6 @@
 {
   "name": "passport-chalkable-oauth2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Chalkable (OAuth2) authentication strategies for Passport.",
   "keywords": ["passport", "chalkable", "auth", "authn", "authentication", "identity"],
   "repository": {

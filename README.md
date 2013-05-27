@@ -1,7 +1,7 @@
 # Passport-Chalkable-OAuth2
 
 [Passport](http://passportjs.org/) strategies for authenticating with [Chalkable](http://www.chalkable.com/)
-using OAuth 1.0a and OAuth 2.0.
+using OAuth 2.0.
 
 This module lets you authenticate using Chalkable in your Node.js applications.
 By plugging into Passport, Chalkable authentication can be easily and
